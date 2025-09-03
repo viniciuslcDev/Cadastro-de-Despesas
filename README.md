@@ -46,7 +46,7 @@ Foi personalizado para treinar o uso do FlutterFlow, Firebase e o conceito de CR
 
 ## 🔗 Link para Visualizar o App
 
-🔗 [Clique aqui para abrir no FlutterFlow Preview](https://app.flutterflow.io/debug/uKWusdmb9PKmNUJYVHVZ)  
+🔗 [Clique aqui para abrir no FlutterFlow Preview](https://app.flutterflow.io/preview/cadastrode-despesas-rqt1ts?page=HomePage)  
 
 
 ---
@@ -66,22 +66,6 @@ Foi personalizado para treinar o uso do FlutterFlow, Firebase e o conceito de CR
 
 > 📌 Este repositório serve como **documentação e portfólio visual** do projeto, com imagens, descrição e funcionalidades.
 
----
-
-## 🖼️ Screenshots
-
-📌 Telas capturadas diretamente do FlutterFlow Preview:
-
-### Home
-![Home](C:\Users\Home\OneDrive\Área de Trabalho\cadastroDespesas-FlutterFLow\wireframes\homepage\img.PNG)
-
-### Criar Despesa
-![Criar](C:\Users\Home\OneDrive\Área de Trabalho\cadastroDespesas-FlutterFLow\wireframes\criarDespesa\img.PNG)
-
-### Detalhes da Despesa
-![Detalhes](C:\Users\Home\OneDrive\Área de Trabalho\cadastroDespesas-FlutterFLow\wireframes\criarDespesa\img.PNG)
-
----
 
 ## 🙋‍♂️ Autor
 
